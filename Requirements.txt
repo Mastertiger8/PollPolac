@@ -1,0 +1,8 @@
+telethon
+gtts
+google_trans_new
+speech_recognition
+moviepy
+pydub
+ffmpeg
+requests
